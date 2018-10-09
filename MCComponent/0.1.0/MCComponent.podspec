@@ -29,6 +29,7 @@ Reusable Component for demo purposes
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'MCComponent/Classes/**/*'
+  s.resources = 'MCComponent/Classes/ReusableButtonView.xib'
   
   # s.resource_bundles = {
   #   'MCComponent' => ['MCComponent/Assets/*.png']
